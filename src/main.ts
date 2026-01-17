@@ -1,5 +1,5 @@
 import { createApp } from 'vue'
-import Contador from './examples/ContadorComposition.vue'
+import Contador from './examples/ProductList.vue'
 
 const app = createApp(Contador)
 
